@@ -175,8 +175,9 @@ for index in 0...255 {
     
     let xorResult : Int = index ^ Int(uIntValue_try3)
     resultString.append(Character(UnicodeScalar(xorResult)!))
+        
     }
-    
+    resultString.append(" ALARM: \(index) \n")
     // xor adding
     
     //xor byte result deciper
