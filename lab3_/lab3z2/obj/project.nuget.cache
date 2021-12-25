@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DSfeYS8sMSrVw26/Ohzg5+Zaxz6XS4xPQjLUKYk4qgFMUVilEOCqpfCnZxxHqQ3+Aw8ea3vlhAZGbtY+kLP8Dw==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/lab3z2.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

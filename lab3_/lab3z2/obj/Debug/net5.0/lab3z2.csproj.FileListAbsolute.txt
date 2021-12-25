@@ -1,0 +1,17 @@
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/bin/Debug/net5.0/lab3z2.deps.json
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/bin/Debug/net5.0/lab3z2.runtimeconfig.json
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/bin/Debug/net5.0/lab3z2.runtimeconfig.dev.json
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/bin/Debug/net5.0/lab3z2.dll
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/bin/Debug/net5.0/ref/lab3z2.dll
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/bin/Debug/net5.0/lab3z2.pdb
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.csproj.AssemblyReference.cache
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.AssemblyInfoInputs.cache
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.AssemblyInfo.cs
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.csproj.CopyComplete
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.dll
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/ref/lab3z2.dll
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.pdb
+/Users/apple/Documents/КПИ/4 курс/Шифрование/SecurityLabs/lab3_/lab3z2/obj/Debug/net5.0/lab3z2.genruntimeconfig.cache

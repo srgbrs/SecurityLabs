@@ -79,7 +79,7 @@ func getIntArrayFromString(str: String) -> [UInt8]? {
             
             guard let keyInts = getIntArrayFromString(str: key) else { return }
             let cipherWithWord = xor(first: cipher, second: keyInts)
-            print(cipherWithWord)
+            // print(cipherWithWord)
 
             print(String(bytes: cipherWithWord, encoding: .ascii)!)
             print("")
@@ -161,4 +161,4 @@ func stringToBytes(_ string: String) -> [UInt8]? {
 var arr = Array(salsaArray.map({ stringToBytes($0)! }))
 
 
-print(result(asciiStringArray: arr, key: "The "))
+print(result(asciiStringArray: arr, key: "When "))

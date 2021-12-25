@@ -150,7 +150,7 @@ for element in stride(from: 0, to: hexString.count, by: 2) {
     
     //print("res 1: \(r1 * 16 + r2 ) ")
     let rez = r1 * 16 + r2
-     print(UnicodeScalar(rez))
+    print(UnicodeScalar(rez))
     let z = Int(r)
     
     general += String(UnicodeScalar(rez)!)

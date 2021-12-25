@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C171ED64-6910-4193-B7DA-AF0A016D155F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="37" />
+      <File FileName="NetworkLayer.cs" Line="30" Column="2" />
+      <File FileName="DataLayer.cs" Line="12" Column="28" />
+      <File FileName="MersenneTwister.cs" Line="67" Column="2" />
+      <File FileName="BetterMersenneTwisterAlg.cs" Line="105" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab3z3" expanded="True">
+            <Node name="lab3z3" expanded="True">
+              <Node name="BetterMersenneTwisterAlg.cs" selected="True" />
+              <Node name="MersenneTwister.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lab3z3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
