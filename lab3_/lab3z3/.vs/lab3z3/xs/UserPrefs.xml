@@ -2,18 +2,17 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="10" Column="37" />
-      <File FileName="NetworkLayer.cs" Line="30" Column="2" />
-      <File FileName="DataLayer.cs" Line="12" Column="28" />
-      <File FileName="MersenneTwister.cs" Line="67" Column="2" />
-      <File FileName="BetterMersenneTwisterAlg.cs" Line="105" Column="1" />
+      <File FileName="NetworkLayer.cs" />
+      <File FileName="DataLayer.cs" />
+      <File FileName="MersenneTwister.cs" />
+      <File FileName="BetterMersenneTwisterAlg.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="lab3z3" expanded="True">
             <Node name="lab3z3" expanded="True">
-              <Node name="BetterMersenneTwisterAlg.cs" selected="True" />
-              <Node name="MersenneTwister.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

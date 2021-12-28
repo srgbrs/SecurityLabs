@@ -4,7 +4,7 @@ class NetworkLayer{
     
     public static func fetchData(complition: @escaping (GameResult) -> Void){
         
-        let url = URL(string: "http://95.217.177.249/casino/playLcg?id=1232212&bet=1&number=1")!
+        let url = URL(string: "http://95.217.177.249/casino/playLcg?id=12322424&bet=1&number=1")!
         var request = URLRequest(url: url)
 
         let semaphore = DispatchSemaphore(value: 0)
